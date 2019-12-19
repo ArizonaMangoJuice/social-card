@@ -1,0 +1,8 @@
+.main-card-container{
+    height: 550px;
+    width: 600px;
+    background-color: #222426;
+    color: #10B0D1;
+    border-radius: 9%;
+    margin: auto;
+}

@@ -1,0 +1,36 @@
+.me{
+    height: 130px;
+    width: 130px;
+    border: 4px solid #10B0D1;
+    border-radius: 12%;
+}
+
+.top-container{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+
+.name{
+    margin-bottom: 1px;
+}
+
+.job-title{
+    margin-bottom: 8px;
+}
+
+.description{
+    width: 300px;
+    font-size: 10px;
+}
+
+.image-container{
+    width: 200px;
+}
+
+.bio-container{
+    width: 300px;
+}

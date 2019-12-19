@@ -1,0 +1,26 @@
+.bottom-container{
+    /* padding-top: 100px; */
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+
+.connect-container{
+    width: 200px;
+}
+
+.big-p{
+    font-size: 24px;
+    width: 110px;
+    margin: 65px auto 0 auto;
+    letter-spacing: 2px;
+}
+
+.social{
+    width: 350px;
+    /* border: 1px solid red; */
+    height: 150px;
+}
